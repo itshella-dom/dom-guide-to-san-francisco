@@ -36,6 +36,10 @@ Personally, I am not much for the themed bars but these are some in the city tha
   * Theme: Pirates. It's a Pirate themed bar. 
   * Overall: Depending on the night it can be a bit much. Weekends are crowded with out of towners. Best night to go is probably Tuesday evenings. They have fantastic rum collection and even have bowls to share. 
 
+* [Tonga Room](http://www.tongaroom.com/) - Nob Hill 
+  * Theme: Tiki Bar
+  * Overall: Fun atmosphere. A little older crowd that is usually from out of town. 
+  
 * [Topsy's](http://www.topsyssf.com/) - Financial District
   * Theme: Circus 
   * Overall: Smaller bar but it's fun. Great cocktails, not too sweet not too bitter. Fun Decor. 
