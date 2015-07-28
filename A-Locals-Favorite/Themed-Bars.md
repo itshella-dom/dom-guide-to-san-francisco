@@ -5,12 +5,12 @@
 Personally, I am not much for the themed bars but these are some in the city that I know of. Many came from [UpOut's List](http://www.upout.com/blog/san-francisco-3/8-of-the-coolest-theme-bars-in-san-francisco)
 
 * [Wilson & Wilson](http://thewilsonbar.com/) - Tenderloin District
-..* Theme: Private Detective Agency
-..* Overall: Quiet, intimate 
+  * Theme: Private Detective Agency
+  * Overall: Quiet, intimate 
 
 * [Novela](http://novelasf.com/) - SOMA District
-..* Theme: Library 
-..* Overall: Nice, cocktail bar. Drinks are named after authors and famous characters
+  * Theme: Library 
+  * Overall: Nice, cocktail bar. Drinks are named after authors and famous characters
 
 * [Butter](http://www.smoothasbutter.com/) - SOMA District
   * Theme: Trailer (Editors Note: I dont particularly care for a bar that marginalizes and makes light of poverty)
