@@ -89,6 +89,10 @@
 * [Plated](https://www.plated.com/sf/haystackhome/s) - Ingredients delivered weekly to your door with some recipes for delicious food (more choices at roughly $9-$11 a plate)
   * *promocode*
 
+* [Chef'd](http://www.chefd.com/) - Ingredients for gourmet meals delivered to you. 
+  * *promocode* no promo code
+  * protip: It's a little more expensive than the others because they are specifically gourmet meals picked out by well known chefs.  
+
 ## Groceries
 
 * [Instacart](https://www.instacart.com/) - Groceries delivered from stores to your door
